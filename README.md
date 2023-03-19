@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gaven Dcosta
-- 👀 I’m interested in Full Stack Web Development(MERN stack)
+- 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on anything related to Front-End
 - 📫 How to reach me gavendcosta@gmail.com
