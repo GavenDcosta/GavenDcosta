@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Gaven Dcosta
 - 👀 I’m interested in Full Stack Web Development
 - 📫 How to reach me gavendcosta@gmail.com
+- 
+- linkedin.com/in/gaven-dcosta-b18165239
 
 - ![](https://komarev.com/ghpvc/?username=TeddyGaven)
   
