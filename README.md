@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on anything related to Front-End
 - 📫 How to reach me gavendcosta@gmail.com
 
-- ![](https://komarev.com/ghpvc/?username=GavenDcosta)
+- ![](https://komarev.com/ghpvc/?username=TeddyGaven)
+  
 
 <!---
 TeddyGaven/TeddyGaven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
