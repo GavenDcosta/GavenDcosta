@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **gavendcosta@gmail.com**
 
+- I will also learn App Development in the Future
+
 - ![](https://komarev.com/ghpvc/?username=TeddyGaven)
 
 <h3 align="left">Connect with me:</h3>
