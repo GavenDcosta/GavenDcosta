@@ -17,32 +17,30 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
-    <table align="center">
-        <thead>
-            <tr>
-                <th>Framework/Library</th>
-                <th>Logo</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Bootstrap</td>
-                <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></td>
-            </tr>
-            <tr>
-                <td>C</td>
-                <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></td>
-            </tr>
-            <tr>
-                <td>CSS3</td>
-                <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></td>
-            </tr>
-            <!-- Add more rows for other frameworks and libraries -->
-        </tbody>
-    </table>
-</p>
 
+
+Certainly! I have reduced the size of the images to 60x60 pixels and added the URLs to the official sites of the languages and frameworks. Here's the updated "Frameworks and Libraries" section of your README:
+
+markdown
+Copy code
+## Frameworks and Libraries
+
+| Framework/Library | Logo                                                                                                 |
+|-------------------|------------------------------------------------------------------------------------------------------|
+| Bootstrap         | <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/></a>           |
+| C                 | <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/></a>                               |
+| CSS3              | <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/></a>                 |
+| Django            | <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="60" height="60"/></a>                                                                 |
+| Express.js        | <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/></a>   |
+| HTML5             | <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/></a>             |
+| JavaScript       | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/></a>     |
+| MySQL             | <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/></a>             |
+| Node.js          | <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/></a>       |
+| Python           | <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/></a>                 |
+| React            | <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/></a>           |
+| Postman          | <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/></a>                                              |
+| Tailwind CSS     | <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/></a>                                           |
+| Git              | <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/></a>                                                         |
 
  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gavendcosta&" alt="gavendcosta" /></p>
