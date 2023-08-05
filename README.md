@@ -19,11 +19,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-Certainly! I have reduced the size of the images to 60x60 pixels and added the URLs to the official sites of the languages and frameworks. Here's the updated "Frameworks and Libraries" section of your README:
-
-markdown
-Copy code
-## Frameworks and Libraries
+"Frameworks and Libraries" 
 
 | Framework/Library | Logo                                                                                                 |
 |-------------------|------------------------------------------------------------------------------------------------------|
@@ -41,6 +37,5 @@ Copy code
 | Postman          | <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/></a>                                              |
 | Tailwind CSS     | <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/></a>                                           |
 | Git              | <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/></a>                                                         |
-
  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gavendcosta&" alt="gavendcosta" /></p>
