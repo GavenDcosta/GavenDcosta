@@ -18,9 +18,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-
-## Frameworks and Libraries
-
 | Framework/Library | Logo                                                                                                 |
 |-------------------|------------------------------------------------------------------------------------------------------|
 | Bootstrap         | <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60" style="display: block; margin: 0 auto;"/></a>           |
