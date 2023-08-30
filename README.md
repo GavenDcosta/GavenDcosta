@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Gaven Dcosta</h1>
 <h3 align="center">Student at Don Bosco Institute of Technology, Kurla</h3>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m continuously improving my **Full-Stack Web Dev Skills**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
 - 📫 How to reach me **gavendcosta@gmail.com**
 
-- I will also learn App Development in the Future
+
+![hippo](https://media.tenor.com/g2TTJPBB-MAAAAAd/mikeohearn.gif)
+
 
 - ![](https://komarev.com/ghpvc/?username=TeddyGaven)
 
