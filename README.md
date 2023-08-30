@@ -6,9 +6,10 @@
 - 👯 I’m looking to collaborate on **Web Development**
 
 - 📫 How to reach me **gavendcosta@gmail.com**
+- 
 
+![mikeohearn](https://github.com/GavenDcosta/GavenDcosta/assets/112816730/fcfc5c5d-cd73-446c-88b9-d666cf46f84a)
 
-![hippo](https://media.tenor.com/g2TTJPBB-MAAAAAd/mikeohearn.gif)
 
 
 - ![](https://komarev.com/ghpvc/?username=TeddyGaven)
