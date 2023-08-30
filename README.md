@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaven Dcosta</h1>
-<h3 align="center">Student at Don Bosco Institute of Technology, Kurla</h3>
+<h3 align="center">Web Expert at GDSC DBIT</h3>
 
 - 🌱 I’m continuously improving my **Full-Stack Web Dev Skills**
 
