@@ -6,7 +6,6 @@
 - 👯 I’m looking to collaborate on **Web Development**
 
 - 📫 How to reach me **gavendcosta@gmail.com**
- 
 - ![](https://komarev.com/ghpvc/?username=TeddyGaven)
   
 
