@@ -26,15 +26,22 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-| Framework/Library   | Framework/Library   |
-|---------------------|---------------------|
-| [Bootstrap](https://getbootstrap.com)     | [C](https://en.wikipedia.org/wiki/C_(programming_language)) |
-| [CSS3](https://www.w3.org/Style/CSS/Overview.en.html) | [Django](https://www.djangoproject.com/) |
-| [Express.js](https://expressjs.com)     | [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) |
-| [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [MySQL](https://www.mysql.com/) |
-| [Node.js](https://nodejs.org)       | [Python](https://www.python.org) |
-| [React](https://reactjs.org/)        | [Postman](https://www.postman.com/) |
-| [Tailwind CSS](https://tailwindcss.com/) | [Git](https://git-scm.com/) |
+| Framework/Library | Documentation                                           |
+|-------------------|--------------------------------------------------------|
+| ![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg) | [Bootstrap Documentation](https://getbootstrap.com) |
+| ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg) | [C Documentation](https://en.wikipedia.org/wiki/C_(programming_language)) |
+| ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) | [CSS3 Documentation](https://www.w3.org/Style/CSS/Overview.en.html) |
+| ![Django](https://cdn.worldvectorlogo.com/logos/django.svg) | [Django Documentation](https://www.djangoproject.com/) |
+| ![Express.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg) | [Express.js Documentation](https://expressjs.com) |
+| ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) | [HTML5 Documentation](https://developer.mozilla.org/en-US/docs/Web/HTML) |
+| ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) | [JavaScript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
+| ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg) | [MySQL Documentation](https://www.mysql.com/) |
+| ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg) | [Node.js Documentation](https://nodejs.org) |
+| ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) | [Python Documentation](https://www.python.org) |
+| ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) | [React Documentation](https://reactjs.org/) |
+| ![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg) | [Postman Documentation](https://www.postman.com/) |
+| ![Tailwind CSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg) | [Tailwind CSS Documentation](https://tailwindcss.com/) |
+| ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) | [Git Documentation](https://git-scm.com/) |
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gavendcosta&" alt="gavendcosta" /></p>
