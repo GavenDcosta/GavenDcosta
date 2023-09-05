@@ -10,7 +10,7 @@
 - 👀 Member of the founding team of GDSC-DBIT
 
 - 📫 How to reach me **gavendcosta@gmail.com**
-- 
+  
 - ![](https://komarev.com/ghpvc/?username=TeddyGaven)
   
 
