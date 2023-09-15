@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on **Web Development**
 
 - 💪I live by the quote "Do the hardwork especially when you dont feel like it ~ Hamza Ahmed"
-- 
+  
 - 📫 How to reach me **gavendcosta@gmail.com**
   
 - ![](https://komarev.com/ghpvc/?username=TeddyGaven)
