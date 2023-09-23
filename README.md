@@ -42,7 +42,8 @@
 | Python             | <a href="https://docs.python.org/3/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> |
 | React              | <a href="https://reactjs.org/docs/getting-started.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> |
 | Tailwind CSS       | <a href="https://tailwindcss.com/docs" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a> |
-| Three.js           | <a href="https://threejs.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Three.js_Icon.svg/768px-Three.js_Icon.svg.png?20211115112438" alt="threejs" width="40" height="40"/></a> |
+| Three.js           | <a href="https://github.com/mrdoob/three.js" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Three.js_Icon.svg/768px-Three.js_Icon.svg.png?20211115112438" alt="threejs" width="40" height="40"/></a> |
+| Next.js            | <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://img.stackshare.io/service/5936/nextjs.png" alt="nextjs" width="40" height="40"/></a> |
 
 
 
