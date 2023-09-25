@@ -28,23 +28,23 @@
 
 | Programming Language | Documentation Link |
 |----------------------|--------------------|
-| ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg) | [C Documentation](https://www.cprogramming.com/) |
-| ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) | [Python Documentation](https://www.python.org) |
-| ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) | [HTML5 Documentation](https://www.w3.org/html/) |
-| ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) | [CSS3 Documentation](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) |
-| ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) | [JavaScript Documentation](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) |
-| ![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg) | [Bootstrap Documentation](https://getbootstrap.com) |
-| ![Tailwind CSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg) | [Tailwind CSS Documentation](https://tailwindcss.com/) |
-| ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) | [React Documentation](https://reactjs.org/) |
-| ![Next.js](https://cdn.worldvectorlogo.com/logos/nextjs-2.svg) | [Next.js Documentation](https://nextjs.org/) |
-| ![Three.js](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Three.js_Icon.svg/768px-Three.js_Icon.svg.png?20211115112438) | [Three.js Documentation](https://threejs.org/) |
-| ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg) | [Node.js Documentation](https://nodejs.org) |
-| ![Express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg) | [Express Documentation](https://expressjs.com) |
-| ![Django](https://www.djangoproject.com/s/img/logos/django-logo-positive.png) | [Django Documentation](https://docs.djangoproject.com/en/stable/) |
-| ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg) | [MySQL Documentation](https://www.mysql.com/) |
-| ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg) | [MongoDB Documentation](https://www.mongodb.com/) |
-| ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) | [Git Documentation](https://git-scm.com/) |
-| ![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg) | [Postman Documentation](https://postman.com) |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"> | [C Documentation](https://www.cprogramming.com/) |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"> | [Python Documentation](https://www.python.org) |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"> | [HTML5 Documentation](https://www.w3.org/html/) |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"> | [CSS3 Documentation](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"> | [JavaScript Documentation](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"> | [Bootstrap Documentation](https://getbootstrap.com) |
+| <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"> | [Tailwind CSS Documentation](https://tailwindcss.com/) |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"> | [React Documentation](https://reactjs.org/) |
+| <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"> | [Next.js Documentation](https://nextjs.org/) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Three.js_Icon.svg/768px-Three.js_Icon.svg.png?20211115112438" alt="Three.js" width="40" height="40"> | [Three.js Documentation](https://threejs.org/) |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"> | [Node.js Documentation](https://nodejs.org) |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"> | [Express Documentation](https://expressjs.com) |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"> | [MySQL Documentation](https://www.mysql.com/) |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"> | [MongoDB Documentation](https://www.mongodb.com/) |
+| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"> | [Git Documentation](https://git-scm.com/) |
+| <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"> | [Postman Documentation](https://postman.com) |
+| <img src="https://www.djangoproject.com/s/img/logos/django-logo-positive.png" alt="Django" width="40" height="40"> | [Django Documentation](https://docs.djangoproject.com/en/stable/) |
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gavendcosta&" alt="gavendcosta" /></p>
 
