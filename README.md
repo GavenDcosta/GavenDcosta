@@ -40,11 +40,11 @@
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Three.js_Icon.svg/768px-Three.js_Icon.svg.png?20211115112438" alt="Three.js" width="40" height="40"> | [Three.js Documentation](https://threejs.org/) |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"> | [Node.js Documentation](https://nodejs.org) |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"> | [Express Documentation](https://expressjs.com) |
+| <img src="https://www.djangoproject.com/s/img/logos/django-logo-positive.png" alt="Django" width="40" height="40"> | [Django Documentation](https://docs.djangoproject.com/en/stable/) |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"> | [MySQL Documentation](https://www.mysql.com/) |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"> | [MongoDB Documentation](https://www.mongodb.com/) |
 | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"> | [Git Documentation](https://git-scm.com/) |
 | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"> | [Postman Documentation](https://postman.com) |
-| <img src="https://www.djangoproject.com/s/img/logos/django-logo-positive.png" alt="Django" width="40" height="40"> | [Django Documentation](https://docs.djangoproject.com/en/stable/) |
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gavendcosta&" alt="gavendcosta" /></p>
 
