@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gaven Dcosta</h1>
 <h3 align="center">Web Expert at GDSC DBIT</h3>
 
-- 🌱 I’m continuously improving my **Full-Stack Web Dev Skills**
+- 🌱 I’m continuously improving my **Full-Stack Web Dev Skills**.
 
-- 👯 I’m looking to collaborate on **Web Development**
+- 👯 I’m looking to collaborate on **Web Development**.
 
-- 💪I live by the quote "Do the hardwork especially when you dont feel like it ~ Hamza Ahmed"
+- 💪I live by the quote "Do the hardwork especially when you dont feel like it ~ Hamza Ahmed".
   
 - 📫 How to reach me **gavendcosta@gmail.com**
   
