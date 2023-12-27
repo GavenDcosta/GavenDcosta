@@ -8,6 +8,7 @@
 - 💪I live by the quote "Do the hardwork especially when you dont feel like it ~ Hamza Ahmed".
   
 - 📫 How to reach me **gavendcosta@gmail.com**
+- My Portfolio => https://gaven-portfolio.vercel.app/
   
 - ![](https://komarev.com/ghpvc/?username=TeddyGaven)
   
