@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Gaven Dcosta</h1>
+<h1 align="center">Jesus✝️, Gym💪, Coding🧑‍💻</h1>
 <h3>Experiences</h3> 
 <p>1 - Web Expert at GDSC DBIT</p>
 <p>2 - Worked for Australian NGOT</p> 
 <p>3 - Website Management Internship </p> 
 <p>4 - Tons of Personal Projects</p> 
     
-- 🌱 I’m continuously improving my **Full-Stack Web Dev Skills**.
+- 🌱 I’m continuously improving my **Full-Stack Web and App Dev Skills**.
 
-- 👯 I’m looking to collaborate on **Web Development**.
+- 👯 I’m looking to collaborate on **Websites and Apps**.
 
 - 💪I live by the quote "Do the hardwork especially when you dont feel like it ~ Hamza Ahmed".
   
