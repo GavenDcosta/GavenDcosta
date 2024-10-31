@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gaven Dcosta</h1>
-<h3 align="center">Experiences</h3> 
-<p>Web Expert at GDSC DBIT</p>
-<p>Worked for Australian NGOT</p> 
-<p>Website Management Internship </p> 
-<p>Tons of Personal Projects</p> 
+<h3>Experiences</h3> 
+<p>1 - Web Expert at GDSC DBIT</p>
+<p>2 - Worked for Australian NGOT</p> 
+<p>3 - Website Management Internship </p> 
+<p>4 - Tons of Personal Projects</p> 
     
 - 🌱 I’m continuously improving my **Full-Stack Web Dev Skills**.
 
