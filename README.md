@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gaven Dcosta</h1>
 <h1 align="center">Jesus✝️, Gym💪, Coding🧑‍💻</h1>
-<h3>Experiences</h3> 
-<p>1 - Web Expert at GDSC DBIT 23-24</p>
-<p>2 - Worked for Australian NGO</p> 
-<p>3 - Website Management Internship</p> 
-<p>4 - Tons of Personal Projects</p> 
+<h3>Experiences</h3>
+<p>1 - SDE Intrapreneur at Transformatrix Global Private Limited 2025-Present</p>
+<p>2 - Web Expert at GDSC DBIT 23-24</p>
+<p>3 - Worked for Australian NGO</p> 
+<p>4 - Website Management Internship</p> 
+<p>5 - Tons of Personal Projects</p> 
     
 - 🌱 I’m continuously improving my **Full-Stack Web and App Dev Skills**.
 
