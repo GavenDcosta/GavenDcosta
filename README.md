@@ -4,7 +4,7 @@
 <p>1 - SDE Intrapreneur at Transformatrix Global Private Limited 2025-Present</p>
 <p>2 - Web Expert at GDSC DBIT 23-24</p>
 <p>3 - Worked for Australian NGO</p> 
-<p>4 - Website Management Internship</p> 
+<p>4 - Website Management Internship Don Bosco Institute of Technology Kurla 23-24</p> 
 <p>5 - Tons of Personal Projects</p> 
     
 - 🌱 I’m continuously improving my **Full-Stack Web and App Dev Skills**.
